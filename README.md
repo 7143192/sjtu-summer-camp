@@ -1,1 +1,3 @@
 # sjtu-summer-camp
+Some solutions for some summer-camp problems writen by myself.
+But some of these solutions have a poor performance, so they may not pass the large-data testcase.... 
