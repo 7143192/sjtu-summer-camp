@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/os/Desktop/problem2020/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+map
+-
+vector
+-
+queue
+-
+algorithm
+-
+

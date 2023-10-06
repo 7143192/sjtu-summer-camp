@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wno-error   CMakeFiles/problem_2024.dir/main.cpp.o  -o problem_2024 

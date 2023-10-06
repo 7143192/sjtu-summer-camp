@@ -1,0 +1,3 @@
+/home/os/Desktop/problem2020/build/CMakeFiles/rebuild_cache.dir
+/home/os/Desktop/problem2020/build/CMakeFiles/edit_cache.dir
+/home/os/Desktop/problem2020/build/CMakeFiles/problem2020.dir

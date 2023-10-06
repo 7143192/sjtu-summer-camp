@@ -1,0 +1,3 @@
+/home/os/Desktop/problem_2024/build/CMakeFiles/rebuild_cache.dir
+/home/os/Desktop/problem_2024/build/CMakeFiles/edit_cache.dir
+/home/os/Desktop/problem_2024/build/CMakeFiles/problem_2024.dir

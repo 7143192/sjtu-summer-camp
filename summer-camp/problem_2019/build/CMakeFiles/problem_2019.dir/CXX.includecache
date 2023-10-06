@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/os/Desktop/problem_2019/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+map
+-
+vector
+-
+ctime
+-
+time.h
+-
+sys/time.h
+-
+
